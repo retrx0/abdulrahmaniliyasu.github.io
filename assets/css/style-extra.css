@@ -1,9 +1,13 @@
+body {
+  background-image: radial-gradient( circle at top right, rgb(36, 41, 61) 0%, rgb(36, 41, 61) 14.286%, rgb(32, 36, 53) 14.286%, rgb(32, 36, 53) 28.572%, rgb(27, 31, 46) 28.572%, rgb(27, 31, 46) 42.858%, rgb(23, 26, 38) 42.858%, rgb(23, 26, 38) 57.144%, rgb(18, 21, 30) 57.144%, rgb(18, 21, 30) 71.43%, rgb(14, 15, 23) 71.43%, rgb(14, 15, 23) 85.716%, rgb(9, 10, 15) 85.716%, rgb(9, 10, 15) 100.002% );
+}
+
 svg, .circuit {
   position: absolute;
   top: 40%;
   left: 10%;
   transform: translate(-50%, -50%);
-  background-color: #24293C;
+  background-color: "transparent";
   z-index: -1;
 }
 
