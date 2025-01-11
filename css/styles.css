@@ -72,7 +72,7 @@ body {
 }
 #profile-pic {
   padding: 50px;
-  border-radius: 1000px;
+  border-radius: 0px;
 }
 
 .center-vertically {
@@ -87,7 +87,7 @@ body {
   font-size: 20px;
   text-align: left;
   background-color: #00000033;
-  border-radius: 10px;
+  border-radius: 0px;
 }
 
 .description {
@@ -107,7 +107,7 @@ body {
   background: rgba(255, 255, 255, 0.04);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
-  border-radius: 25px;
+  border-radius: 0px;
 }
 
 /* Social */
@@ -125,7 +125,7 @@ body {
   margin: 5px 10px;
   width: 80px;
   height: 80px;
-  border-radius: 10px;
+  border-radius: 0px;
   text-align: center;
   line-height: 80px;
   border: 0.01cm solid transparent;
@@ -142,7 +142,7 @@ body {
   transform: scale(1.05);
   box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
     0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
-  border-radius: 10px;
+  border-radius: 0px;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
@@ -179,7 +179,7 @@ body {
   margin: 5px;
   min-height: 180px;
   min-width: 300px;
-  border-radius: 10px;
+  border-radius: 0px;
   transition-delay: 0ms;
   transition-duration: 0.15s;
   background-color: #00000033;
@@ -225,7 +225,7 @@ body {
   background: #10121b;
   text-align: center;
   box-shadow: 0 25px 50px -10px #080808;
-  border-radius: 10px;
+  border-radius: 0px;
 }
 
 .projects a {
