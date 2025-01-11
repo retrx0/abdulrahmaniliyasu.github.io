@@ -36,8 +36,8 @@
 }
 
 :root {
-  --accent: #ffffff;
-  --text: #ffffff;
+  --accent: #f2e8db;
+  --text: #f2e8db;
   --link: #004da0;
   --link-hover: #2c8af3;
   --background: #a980bc;
@@ -91,7 +91,7 @@ body {
 }
 
 .description {
-  color: #ffffff !important;
+  color: #f2e8db !important;
 }
 
 .long-shadow {
